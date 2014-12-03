@@ -1,0 +1,9 @@
+Dachuan Huang, edited on 12/3/2014
+huangda@cse.ohio-state.edu
+
+SmartCache is a MapReduce implementation of Frequent Itemset Mining algorithm.
+
+It uses 2 phase structure to solve FIM problem. 2 phase structure comes from paper
+https://github.com/hdc1112/SmartCache
+
+I have added one cache layer so the overall performance increases significantly.
